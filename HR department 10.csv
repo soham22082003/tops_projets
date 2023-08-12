@@ -1,0 +1,11 @@
+depart_name,depart_idd,depart_time
+"r&d ",107,12
+"tech ",108,23
+"finance ",109,20
+"test ",110,19
+"report ",111,18
+"model ",112,17
+"repair ",113,16
+"quality check ",114,15
+"cleaning ",115,14
+"backup team ",116,13
