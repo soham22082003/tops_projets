@@ -1,0 +1,1 @@
+  select max(depart_comissionearned) from department ;
